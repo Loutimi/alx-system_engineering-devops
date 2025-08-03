@@ -1,2 +1,11 @@
 #!/bin/bash
-for fl in {a..z};do for sl in {a..z};do [[ $fl$sl != oo ]]&&echo $fl$sl;done;done
+for fl in {a..z}
+do
+for sl in {a..z}
+do
+if [ "$fl$sl" != "oo" ]
+then
+echo "$fl$sl"
+fi
+done
+done
