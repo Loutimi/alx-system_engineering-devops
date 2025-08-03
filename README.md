@@ -1,6 +1,6 @@
 # ALX System Engineering and DevOps 💥
 
->Bash, scripting, networking and web infrastructure.
+>Bash, scripting.
 
 ## About
 
