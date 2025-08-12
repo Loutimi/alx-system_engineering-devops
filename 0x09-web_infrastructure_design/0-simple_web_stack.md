@@ -1,3 +1,7 @@
+**Image link: https://imgur.com/a/RoUR5dP**
+
+
+
 **Flow of Events – User to Website**
 
 
